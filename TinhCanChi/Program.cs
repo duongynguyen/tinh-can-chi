@@ -10,6 +10,7 @@ namespace TinhCanChi
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
